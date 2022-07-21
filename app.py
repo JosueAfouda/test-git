@@ -1,3 +1,3 @@
-print("Voici la première version de mon application")
+print("Voici la deuxième version de mon application")
 
-print("Accuracy : 0.89")
+print("Accuracy : 0.75")
